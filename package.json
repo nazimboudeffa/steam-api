@@ -1,0 +1,26 @@
+{
+  "name": "steam-api",
+  "version": "1.0.0",
+  "description": "Gets informations from steam servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazimboudeffa/steam-api.git"
+  },
+  "keywords": [
+    "steam",
+    "api"
+  ],
+  "author": "Nazim Boudeffa <boudeffa3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nazimboudeffa/steam-api/issues"
+  },
+  "homepage": "https://github.com/nazimboudeffa/steam-api#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
